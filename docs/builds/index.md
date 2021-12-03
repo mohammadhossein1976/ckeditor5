@@ -17,7 +17,7 @@ Learn how to install CKEditor 5 from scratch or using predefined builds. Integra
 
 ## Predefined CKEditor 5 builds
 
-Predefined CKEditor 5 builds are ready-to-use installations aimed at specific needs that you can simply download and use out of the box. Learn more about the {@link builds/guides/overview available predefined builds} and choosing the right one for you. This is the fastest way to kick-off you CKEditor 5 installation.
+Predefined CKEditor 5 builds are ready-to-use installations aimed at specific needs that you can simply download and use out of the box. Learn more about the {@link builds/guides/overview available predefined builds} and choosing the right one for you. This is the fastest way to kick-off your CKEditor 5 installation.
 
 ## CKEditor 5 online builder
 
